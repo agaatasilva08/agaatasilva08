@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👩‍💻 Ágata Júlia Garcia da Silva
+### Desenvolvedora | Sistemas Web, Dashboards de KPIs e Automação de Processos
 
-<!--
-**agaatasilva08/agaatasilva08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Engenharia da Computação com formação técnica em Informática, com foco no desenvolvimento de aplicações web e soluções orientadas a dados.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+**Backend:**  
+Laravel, PHP, Java  
+
+**Frontend:**  
+React, JavaScript, HTML, CSS  
+
+**Banco de Dados:**  
+SQL  
+
+**Outros:**  
+Git, APIs REST, Dashboards  
+
+---
+
+## 📌 Projetos em Destaque
+
+🚧 Em construção — em breve projetos reais serão adicionados aqui.
+
+---
+
+## 🎯 Objetivo
+
+Atuar como desenvolvedora, criando soluções eficientes, organizadas e orientadas a dados.
+
+---
+
+## 📫 Contato
+
+- Email: agaatasilva08@email.com  
+- LinkedIn:[Agata Silva](https://www.linkedin.com/in/agata-silva-b0a8bb349)
